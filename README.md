@@ -8,4 +8,6 @@
 - 📫 How to reach me: [Twitter - raeesaa09](https://twitter.com/raeesaa09), [Linkedin - raeesaa](https://www.linkedin.com/in/raeesaa/)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeesaa&layout=compact&theme=radical"> <img src="https://github-readme-stats.vercel.app/api?username=raeesaa&show_icons=true&theme=radical&hide=contribs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raeesaa&layout=compact&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api?username=raeesaa&show_icons=true&theme=radical&hide=contribs">
